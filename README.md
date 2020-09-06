@@ -18,3 +18,4 @@ On thing which I learned is very important for Data Science is to keep the Data 
 
 
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=417075615487099361" height="447" width="345" frameborder="0" scrolling="no" ></iframe>
