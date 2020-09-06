@@ -11,7 +11,8 @@ At the end of each section there are some questions which I answerd and marked i
 
 ## Additionally 
 
-The course is based on agile work methods - so we started with pair programming and learned the benefits of daily standups and reviews. 
-One thing which I learned to keep in mind during the course is always think about the Data Science lifecycle. 
+The course is based on agile work methods - so we started with *pair programming* and learned the benefits of *daily standups* and *reviews*. 
+One thing which I learned to keep in mind during the course is always think about the *Data Science lifecycle*. 
+
 
 ![](https://github.com/Ela-Bo/data_structures/blob/master/lifecycle.jpg)
