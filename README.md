@@ -14,7 +14,7 @@ At the end of each section there are some questions which I answerd and marked i
 The course is based on agile work methods - so we started with pair programming and learned the benefits of daily standups and reviews. 
 On thing which I learned is very important for Data Science is to keep the Data Science lifecycle in mind. 
 
-![Lifecycle](https://pin.it/zYk7CD0)
+![](https://2.bp.blogspot.com/-2fT1nfPGHd8/XBnwun1mVbI/AAAAAAAAA4U/9vqVD6MSigwkfcmN18mpeIr2akKCtxIkQCEwYBhgL/s1600/Data-Science-Lifecycle.png)
 
 
 
